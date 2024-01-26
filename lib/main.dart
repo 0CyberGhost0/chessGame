@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: GameBoard(),
-      //Change 2
+      //Change 3
     );
   }
 }
